@@ -16,6 +16,7 @@ A React.js and Material-UI-based clone of Google Flights that enables users to s
 - **🎚️ Filters & Sorting**: Filter by class (Economy/Business/First) and sort by price, duration, or stops.
 - **📱 Responsive Design**: Optimized for all devices with Material-UI.
 - **🔄 Clear Search**: Reset all parameters with one click.
+- **📑 Pagination**: Navigate through search results with pagination, and customize the number of items per page to your preference.
 
 ## Installation 🛠️
 
