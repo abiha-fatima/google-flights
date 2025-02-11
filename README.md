@@ -2,6 +2,13 @@
 
 A React.js and Material-UI-based clone of Google Flights that enables users to search, filter, and sort flights using real-time data from the Rapid API Sky Scraper.
 
+[Demo Video](https://www.loom.com/share/ac4f359f041147b0858c21a49a254800?sid=65769379-8aa2-4970-8fd5-164c26fb5c03) 
+
+![image](https://github.com/user-attachments/assets/8cf7dd13-8c93-4feb-9557-4768b57c9564)
+
+
+
+
 ## Features ✨
 
 - **🌍 Nearby Airports Detection**: Auto-fetches airports near your geolocation.
